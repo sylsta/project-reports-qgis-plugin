@@ -6,7 +6,7 @@
 name=Project Reports
 qgisMinimumVersion=3.0
 description=Plugin to generate reports (CSV and HTML) of properties and metadata about layers, fields and layouts of QGIS projects.
-version=1.2
+version=1.3
 author=Patricio Soriano. SIGdeletras.com
 email=pasoiano@gmail.com
 about=This plugin collects information and properties from different PyQGIS objects, such as layers, fields or layouts accessible from the project and generates open data files (CSV and HTML) with this information. The main objective is to have a tool to generate final reports on work done with QGIS.
